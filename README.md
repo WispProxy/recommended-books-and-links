@@ -1,6 +1,6 @@
-# recommended-technical-books
+# recommended-technical-books-and-links
 
-**Description:** It is repository with list of Recommended Technical Books
+**Description:** It is repository with list of Recommended Technical Books and Links
 
 ## General:
 
