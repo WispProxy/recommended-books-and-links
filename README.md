@@ -1,6 +1,6 @@
-# recommended-technical-books-and-links
+# recommended-books-and-links
 
-**Description:** It is repository with list of Recommended Technical Books and Links
+**Description:** The repository with list of Recommended Books and Links
 
 ## General:
 
@@ -40,5 +40,17 @@
 
 	1. «Продвижение сайта в поисковых системах», Igor Ashmanov
 	2. "Optimization and Website Promotion in Search Engines", Igor Ashmanov
+
+## DevOps:
+
+	1. "The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices", Viktor Farcic
+
+## Architecture:
+
+	1. "Building Microservices: Designing Fine-Grained Systems", Sam Newman
+
+## Management:
+
+	1. "Rework: Business without prejudices", Jason Fried
 
 ######
