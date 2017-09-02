@@ -26,7 +26,17 @@
 
 ## JavaScript:
 
-	1. "Learning JavaScript Design Patterns", Addy Osmani
+	1. "You Don't Know JS: Up & Going", Kyle Simpson
+	2. "You Don't Know JS: Scope & Closures", Kyle Simpson
+	3. "You Don't Know JS: this & Object Prototypes", Kyle Simpson
+	4. "You Don't Know JS: Types & Grammar", Kyle Simpson
+	5. "You Don't Know JS: Async & Performance", Kyle Simpson
+	6. "You Don't Know JS: ES6 & Beyond", Kyle Simpson
+	7. "Learning JavaScript Design Patterns", Addy Osmani
+
+## TypeScript:
+
+	1. "TypeScript Deep Dive", Basarat Ali Syed
 
 ## PHP:
 
