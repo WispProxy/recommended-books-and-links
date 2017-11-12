@@ -1,5 +1,7 @@
 # recommended-books-and-links
 
+**Updated:** 2017-11-12
+
 **Description:** The repository with list of Recommended Books and Links
 
 ## General:
@@ -46,6 +48,10 @@
 
 	1. "The Ruby Programming Language", Yukihiro Matsumoto
 
+## Git:
+
+	1. "Pro Git", Scott Chacon
+
 ## SEO:
 
 	1. «Продвижение сайта в поисковых системах», Igor Ashmanov
@@ -57,7 +63,8 @@
 
 ## Architecture:
 
-	1. "Building Microservices: Designing Fine-Grained Systems", Sam Newman
+	1. "RESTful Web APIs: Services for a Changing World", Leonard Richardson
+	2. "Building Microservices: Designing Fine-Grained Systems", Sam Newman
 
 ## Management:
 
