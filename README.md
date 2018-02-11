@@ -1,6 +1,6 @@
 # recommended-books-and-links
 
-**Updated:** 2017-11-12
+**Updated:** 2018-02-11
 
 **Description:** The repository with list of Recommended Books and Links
 
@@ -10,6 +10,7 @@
 	2. "Design Patterns Explained: A New Perspective on Object Oriented Design (Software Patterns)", Alan Shalloway
 	3. "Code Complete: A Practical Handbook of Software Construction", Steve McConnell
 	4. "Beautiful Code: Leading Programmers Explain How They Think (Theory in Practice (O'Reilly))", Andy Oram
+	5. "Competitive Programmer's Handbook", Antti Laaksonen
 
 ## Networks:
 
